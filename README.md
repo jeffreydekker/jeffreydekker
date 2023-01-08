@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**jeffreydekker/jeffreydekker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love programming, cars, gaming, gym, drawing, making music and being with family and friends!
+I'm a "self taught" full-stack web developer looking for a cool job. I have done many free courses and I've invested in several bootcamps over the last 2 years. Hoping to commit a lot of new projects on Github this year!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some more info about me:
+- My workstation: Macbook Pro 15" 2018 32GB RAM Ventura 13.1
+- 🔭 I’m currently working on a profile based database
+- 🌱 I’m currently learning PHP and AJAX
+- 👯 I’m looking to collaborate on websites and databases
+- 🤔 I’m looking for help with finding work!
+- 💬 Ask me about anything!
+- 📫 How to reach me: https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/
+- ⚡ Fun fact: I was actually a guitarist in a previous life! Look me up on IG: jeffreydagger
