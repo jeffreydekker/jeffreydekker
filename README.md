@@ -4,7 +4,7 @@
   
 Hi there 👋
 
-I love programming, cars, gaming, gym, drawing, making music and being with family and friends!
+I love programming, cars, gaming, gym, drawing, making music.
 I'm a "self taught" full-stack web developer looking for a cool job. I have done many free courses and I've invested in several bootcamps over the last 2 years. Aiming to commit a lot of new projects on Github for 2023!
 
 Some more info about me:
