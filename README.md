@@ -1,5 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/maNB0qAiRVAty" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maNB0qAiRVAty">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100"/>
+</div>
+  
 Hi there 👋
 
 I love programming, cars, gaming, gym, drawing, making music and being with family and friends!
