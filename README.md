@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200"/>
-</div>
-
+Connect with me on 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,3 +19,7 @@ Some more info about me:
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/
 - ⚡ Fun fact: I was actually a guitarist in a previous life! Look me up on IG: jeffreydagger
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200"/>
+</div>
