@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <em><strong> If you want to take the island, burn the boats. </strong></em>
+  <em><strong> If you want to take the island, then burn your boats. With absolute commitment come the insights that create real victory</strong></em>
   
   <br>
   <br>
