@@ -1,5 +1,5 @@
 <div align="center"> 
-  Connect with me on
+  <em><strong>Connect with me on</em></strong>
  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/">
@@ -28,7 +28,7 @@
   - 🤔 I’m looking for endorsements and link ups
   - 💬 Ask me about anything full-stack related
   - 📫 How to reach me: https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/
-  - ⚡ Fun fact: I was actually a guitarist in a previous life! Look me up on IG: jeffreydagger
+  - ⚡ Fun fact: I was actually a guitarist in a previous life! Look me up on IG: <em>jeffreydagger</em>
 </div>
 
 <br>
