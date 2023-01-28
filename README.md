@@ -21,7 +21,7 @@
 
   Some more info about me:
   - 💻 My workstation: Macbook Pro 15" 2018 32GB RAM Ventura 13.1
-  - 🔭 I’m currently working on a profile based database website
+  - 🔭 I’m currently working on profile based database website functionality
   - 🌱 I’m currently learning PHP in conjunction with AJAX
   - 👯 I’m looking to collaborate on websites and databases
   - 🤔 I’m looking for endorsements and link ups
