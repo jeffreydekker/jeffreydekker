@@ -26,5 +26,6 @@ Some more info about me:
 
 <div id="header" align="center">
   Lastly, here's an accurate representation of me working:
+  <br>
   <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200"/>
 </div>
