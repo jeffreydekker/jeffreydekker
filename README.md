@@ -1,5 +1,5 @@
 <div align="center"> 
-  <em><strong>Connect with me on</em></strong>
+  <strong>Connect with me on</strong>
  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/">
