@@ -8,10 +8,9 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <em> If you want to take the island, burn the boats </em>
+  <em><strong> If you want to take the island, burn the boats. </strong></em>
 
   I love programming, cars, gaming, gym, drawing, making music.
   I'm a "self taught" full-stack web developer with 2+ years of experience. I have done many free courses through freeCodeCamp and other sources, and I've invested in several bootcamps over the last 2 years. One of those is Bit-Academy, where I've learned full-stack development. I'm commited to contribute a lot of projects to Github for 2023.
