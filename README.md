@@ -16,7 +16,7 @@
   <br>
   <br>
 
-  I love programming, cars, gaming, gym, drawing and making music, but I'm currently going all-in 
+  Hi there 👋🏻 I love programming, cars, gaming, gym, drawing and making music, but I'm currently going all-in 
   with development.
   I'm a "self taught" full-stack web developer with 2+ years of experience. I have done many free courses through freeCodeCamp and other sources, and I've invested in several bootcamps over the last 2 years. One of those is Bit-Academy, where I've learned full-stack development. I was also a part of the life changing Codam Piscine. I'm commited to contribute a lot of impactful projects to Github for 2023.
 
