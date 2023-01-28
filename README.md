@@ -14,12 +14,12 @@
   I'm a "self taught" full-stack web developer looking for a cool job. I have done many free courses and I've invested in several bootcamps over the last 2 years. Aiming to commit a lot of new projects on Github for 2023!
 
   Some more info about me:
-  - My workstation: Macbook Pro 15" 2018 32GB RAM Ventura 13.1
-  - 🔭 I’m currently working on a profile based database
-  - 🌱 I’m currently learning PHP and AJAX
+  - 💻 My workstation: Macbook Pro 15" 2018 32GB RAM Ventura 13.1
+  - 🔭 I’m currently working on a profile based database website
+  - 🌱 I’m currently learning PHP in conjunction with AJAX
   - 👯 I’m looking to collaborate on websites and databases
-  - 🤔 I’m looking for help with finding work!
-  - 💬 Ask me about anything!
+  - 🤔 I’m looking for endorsements and link ups
+  - 💬 Ask me about anything full-stacl related
   - 📫 How to reach me: https://www.linkedin.com/in/jeffrey-dekker-2a8bb4108/
   - ⚡ Fun fact: I was actually a guitarist in a previous life! Look me up on IG: jeffreydagger
 </div>
